@@ -8,6 +8,9 @@ today - it is not intended as a fork but rather to be a superset on top of WASI.
 Therefore it maintains full forwards and backwards compatibility with the `preview1`
 version of WASI and stabilizes it for the long term.
 
+WASIX is published on [crates.io](https://crates.io)
+https://crates.io/crates/wasix
+
 # Current Extensions
 
 Below are the current extensions supported by WASIX, they are all fully tested and
