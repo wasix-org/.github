@@ -5,7 +5,7 @@ WASI(X) is maintained by [wasix.org](https://wasix.org).
 The intent of WASIX (pronounced "was-x") is to extend the WASI proposal and
 complete the ABI sufficiently now to build useful and productive applications
 today - it is not intended as a fork but rather to be a superset on top of WASI.
-Therefore it maintains full forwards and backwards compatibility with this major
+Therefore it maintains full forwards and backwards compatibility with the `preview1`
 version of WASI and stabilizes it for the long term.
 
 # Current Extensions
