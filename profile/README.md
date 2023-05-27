@@ -46,4 +46,4 @@ resolving issues without compromising the long-term support goal.
 
 # Dependency Graph
 
-![Dependencieis](../dependencies.drawio.png)
+![Dependencieis](dependencies.drawio.png)
