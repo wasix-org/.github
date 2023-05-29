@@ -49,4 +49,4 @@ resolving issues without compromising the long-term support goal.
 
 # Dependency Graph
 
-![Dependencieis](WASIX-dependencies.png)
+![Dependencieis](WASIX-dependencies-white.png)
